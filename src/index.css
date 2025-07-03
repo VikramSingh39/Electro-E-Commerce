@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Clerk User button */
+.cl-avatarBox{
+    width: 3rem;
+    height: 3rem;
+}
+
+/* carousel arrow  */
+.arrows {
+  height: 40px;
+  width: 40px;
+  margin: 1px;
+  background-color: #769db17b !important;
+}
